@@ -1,5 +1,5 @@
 {
-  "name": "@aleshaeslichto/ajs-platforms",
+  "name": "@youzya/ajs-platforms",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aleshaeslichto/ajs-platforms.git"
+    "url": "git+https://github.com/youzya/ajs-platforms.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aleshaeslichto/ajs-platforms/issues"
+    "url": "https://github.com/youzya/ajs-platforms/issues"
   },
-  "homepage": "https://github.com/aleshaeslichto/ajs-platforms#readme",
+  "homepage": "https://github.com/youzya/ajs-platforms#readme",
   "devDependencies": {
     "@babel/cli": "^7.23.0",
     "@babel/core": "^7.23.0",
